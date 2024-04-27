@@ -35,3 +35,8 @@ This Jupyter notebook (`coins_detector.ipynb`) is used to detect and classify co
 2. Run each cell in the notebook sequentially.
 3. The final output will display the original image with overlaid detected coins and their denominations.
 
+## Result
+
+![image](https://github.com/parita2003/Coin-Detector-CV-Project/assets/126491686/fb93b504-1d2b-492e-b09d-cca9e9011647)
+
+
