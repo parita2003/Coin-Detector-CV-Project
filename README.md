@@ -35,27 +35,3 @@ This Jupyter notebook (`coins_detector.ipynb`) is used to detect and classify co
 2. Run each cell in the notebook sequentially.
 3. The final output will display the original image with overlaid detected coins and their denominations.
 
-Installation
-You can install the required packages using pip:
-
-bash
-Copy code
-pip install opencv-python numpy matplotlib
-Example
-python
-Copy code
-# Import necessary libraries
-import cv2 as cv
-import numpy as np
-import math
-import matplotlib.pyplot as plt
-
-# Load the image
-image_path = "path/to/your/image.jpg"
-original = cv.imread(image_path)
-
-# Run the detection and counting process
-# ...
-
-# Display the results
-# ...
